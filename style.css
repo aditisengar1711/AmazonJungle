@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container1{
+    background-image: url(pexels-greg-galas-3647545.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;
+}
+.text1{
+    background-color: rgb(57, 81, 56);
+}
+.text1 span{
+    padding: 20px;
+    font-family: 'Pacifico', cursive;
+    font-size: 60px;
+    color: white;
+}
+.text2{
+    border: 10px ;
+    background-color: rgb(91, 131, 90);;
+}
+.text2 h1{
+    font-family: 'Pacifico', cursive; 
+    font-size: 60px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.text2 p{
+    font-family: 'Courgette', cursive;
+    color: white;
+    padding: 0 20px 20px 20px;
+    font-size: x-large;
+}
+.container2{
+    background-image: url(pexels-tom-fisk-2739666.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;
+}
+.container3{
+    background-image: url(pexels-tom-fisk-2666806.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;
+}
+.container4{
+    background-image: url(pexels-tim-mossholder-1618424.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;
+}
